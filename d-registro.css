@@ -1,0 +1,14 @@
+form{
+    padding: 0;
+    margin: 30px;
+}
+
+.contenedor{
+    background-color: beige;
+    margin:30px;
+    padding: 0;
+}
+svg{
+    padding: 1px;
+    margin-left: 20px;
+}

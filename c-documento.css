@@ -1,0 +1,15 @@
+.contenedor{
+    margin: 30px;
+    padding: 0;
+    background-color:azure;
+    border: 1px black solid
+}
+img{
+    padding: 0;
+    margin: 30px;
+}
+
+svg{
+    padding: 1px;
+    margin-left: 20px;
+}
